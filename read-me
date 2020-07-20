@@ -1,0 +1,3 @@
+Make sure to install the following to edit the code
+pip install sounddevice
+pip install keyboard
